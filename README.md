@@ -1,3 +1,5 @@
+# 2025/6 Use sidebar provided by firefox itself
+
 # firefox-vertical-tab-bar
 
 Let Firefox show a vertical bar instead of a horizontal one.
@@ -19,4 +21,3 @@ Then, enable auto hiding and showing of sidebery.
 
 If we hope to set a background image at `newtab`, see 
 `userContent.css` file and put the image in the `chrome/`.
-
